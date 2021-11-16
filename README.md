@@ -1,2 +1,6 @@
-## CPP_3DES_Algorithm
-Lancer le main() pour tester l'encryptage. Le fichier à encrypter doit être sous format binaire (sans espace entre paquets de 8 bits).
+## Description
+Implementation of the 3DES algorithm to encrypt and decrypt a file in C++
+
+## To run locally
+Compile and run the main to test the encryption/de.<br>
+The file to be encrypted must be in binary format
